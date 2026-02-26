@@ -1,0 +1,15 @@
+System,Original WP,Common Name,Complexity,Comments
+Devis_Alpha,Gestion Projet,Project Management,1.0,
+Devis_Alpha,ingénierie,engineering,1.0,
+Devis_Alpha,Développement,Développement,1.0,Development
+Devis_Alpha,AIV,AIV,1.0,
+Devis_Alpha,Ingénierie IT,Ingénierie IT,1.0,
+Devis_Alpha,Assurance Qualité,Assurance Qualité,1.0,
+Devis_Beta,Project Management,Project Management,1.5,Projet de complexité modéré lié à XXX
+Devis_Beta,Software Engineering,Software Engineering,1.0,
+Devis_Beta,Testing ,AIV,2.0,AIV complexe
+Devis_Beta,Garantie,Garantie,1.0,
+Devis_Gamma,Management,Project Management,1.0,
+Devis_Gamma,Procurement,Procurement,2.0,
+Devis_Gamma,Testing ,AIV,1.0,
+Devis_Gamma,Garantie,Garantie,1.0,
