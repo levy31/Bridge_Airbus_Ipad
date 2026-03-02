@@ -10,7 +10,7 @@ import requests
 
 # --- 1. CONFIGURATION ---
 st.set_page_config(layout="wide", page_title="Airbus Audit Master - Final", initial_sidebar_state="auto")
-st.title("🎯 Airbus Bids Bridges Prototype")
+st.title("🎯 Bids Bridges Prototype")
 
 # Lecture des clés API depuis les secrets
 GEMINI_API_KEY = st.secrets.get("GEMINI_API_KEY", None)
